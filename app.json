@@ -1,0 +1,12 @@
+{
+  "name": "zapshare",
+  "displayName": "zapshare",
+  "expo": {
+    "name": "zapshare",
+    "slug": "zapshare",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
